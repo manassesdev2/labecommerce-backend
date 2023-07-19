@@ -1,4 +1,4 @@
-# Projeto labecommerce
+# Projeto Labecommerce
 
 First project integrante da iniciação do back-end, onde praticamos toda a base de criação de uma API vinculada a um banco de dados real.
 
